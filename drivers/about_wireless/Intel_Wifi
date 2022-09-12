@@ -1,0 +1,32 @@
+Applys to Lenovo V14 and Lenovo Thinkpad X1 Yoga:
+
+How to check the driver, cmd:
+> netsh wlan show drivers
+
+Download the lastest wifi driver:
+https://www.intel.com.br/content/www/br/pt/download/18649/intel-wireless-bluetooth-for-windows-10-and-windows-11.html
+
+List of supported devices:
+    Intel® Wi-Fi 6E AX411 (Gig+)
+    Intel® Dual Band Wireless-AC 3168
+    Intel® Dual Band Wireless-AC 3165
+    Intel® Dual Band Wireless-N 7265
+    Intel® Wireless-N 7265
+    Intel® Dual Band Wireless-AC 7265
+    Intel® Dual Band Wireless-AC 8260
+    Kit para desktop Intel® Dual Band Wireless-AC 8265
+    Intel® Dual Band Wireless-AC 8265
+    Kit de IoT industrial Intel® Dual Band Wireless-AC 9260
+    Kit de IoT incorporado Intel® Dual Band Wireless-AC 9260
+    Intel® Wireless-AC 9260
+    Intel® Wireless-AC 9461
+    Intel® Wireless-AC 9462
+    *Intel® Wireless-AC 9560
+    Intel® Wi-Fi 6E AX211 (Gig+)
+    Intel® Wi-Fi 6E AX210 (Gig+)
+    Intel® Wi-Fi 6 AX200 (Gig+)
+    Intel® Wi-Fi 6 AX201 (Gig+)
+    Kit para desktop Intel® Wi-Fi 6 (Gig+)
+
+More about Intel 9560:
+https://www.intel.com.br/content/www/br/pt/support/products/99446/wireless/intel-wireless-ac-products/intel-wireless-9000-series/intel-wireless-ac-9560.html#support-recommended-articles
